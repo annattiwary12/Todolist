@@ -1,0 +1,77 @@
+.leftside, .rightside {
+    height: 50vh;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .leftside, .rightside {
+        height: 103vh;
+    }
+}
+
+.leftside {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: left;
+    background-color: #77771d;
+}
+
+.box1{
+    align-items: center;
+    text-align: center;
+    width: 78px;
+    height: 57px;
+    border:2px solid rgb(239, 10, 10);
+    
+
+}
+.box2{
+    align-items: center;
+    text-align: center;
+    width: 78px;
+    height: 57px;
+    border:2px solid rgb(239, 10, 10);
+    
+
+}
+.box3{
+    align-items: center;
+    text-align: center;
+    width: 78px;
+    height: 57px;
+    border:2px solid rgb(239, 10, 10);
+    
+
+}
+.box4{
+    align-items: center;
+    text-align: center;
+    width: 78px;
+    height: 57px;
+    border:2px solid rgb(239, 10, 10);
+    
+
+}
+.box5{
+    align-items: center;
+    text-align: center;
+    width: 78px;
+    height: 57px;
+    border:2px solid rgb(239, 10, 10);
+    
+
+}
+.rightside {
+    background-image:#780c0c;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: right;
+}
+.checkedbox{
+    width:56px;
+
+
+    
+}
